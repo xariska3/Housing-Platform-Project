@@ -191,7 +191,7 @@ or Kolegium
 
 """
 
-df = pd.read_excel('/Users/harry/Downloads/FindHouse.xlsx')
+df = pd.read_excel('data/FindHouse.xlsx')
 #Fixing my Available from column as when i read the excel file it passes also the hours minutes and seconds and it's
 # not aesthetic when I am printing the outputs.
 
